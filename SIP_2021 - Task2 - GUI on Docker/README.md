@@ -5,10 +5,15 @@ Using Method 1
 4. cd Dockerfile
 5. vim DockerFile
     FROM centos:latest
+    
     RUN yum install python3 -y
+    
     RUN pip3 install jupyter
+    
     RUN yum install firefox -y
+    
     CMD jupyter notebook --allow-root / CMD firefox
+    
 6. docker build -t launchfirefox:v1 . //In case of any changes in the image, update the version to succeeding number.
 7. docker run -it --env "DISPLAY " --net "host" --name FirefoxInDocker launchfirefox:v1
 
