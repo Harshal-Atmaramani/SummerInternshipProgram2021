@@ -4,6 +4,7 @@ Using Method 1
 3. mkdir Dockerfile
 4. cd Dockerfile
 5. vim DockerFile
+
     FROM centos:latest
     
     RUN yum install python3 -y
