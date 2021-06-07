@@ -1,3 +1,5 @@
+## *We have used Google Colaboratory to do the task since it is collaborative and uses cloud resources to process the code.*
+
 Summer - Task 04 👨🏻‍💻
 
 ⚜️ Team Task
@@ -14,4 +16,3 @@ Task Description 📄
 📌 Take 2 image and combine it to form single image. 
 For example collage.
 
-*We have used Google Colaboratory to do the task since it is collaborative and uses cloud resources to process the code.*
