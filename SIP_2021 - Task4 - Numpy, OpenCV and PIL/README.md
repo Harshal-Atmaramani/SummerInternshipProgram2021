@@ -1,4 +1,4 @@
-## *We have used Google Colaboratory to do the task since it is collaborative and uses cloud resources to process the code.*
+### We have used Google Colaboratory to do the task since it is collaborative and uses cloud resources to process the code. If you intend to use the code in this repository, kindly make sure either to use Google Colaboratory or make necessary changes so as to use in Jupyter Notebook.
 
 Summer - Task 04 👨🏻‍💻
 
