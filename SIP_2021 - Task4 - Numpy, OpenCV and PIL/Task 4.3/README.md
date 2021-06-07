@@ -8,6 +8,6 @@
 
 ![4 3 1 4_Quadrant](https://user-images.githubusercontent.com/59224488/121093263-684c6f80-c80a-11eb-9ace-83d040233bab.png)
 
-# **Final Outcome: **
+# **Final Outcome:**
 
 ![4 3 2_Diamond](https://user-images.githubusercontent.com/59224488/121093270-6a163300-c80a-11eb-8c38-04bd5db0e90a.png)
