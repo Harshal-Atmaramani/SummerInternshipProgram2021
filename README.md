@@ -11,5 +11,5 @@ http://bit.ly/HA70-SummerInternship-Task-1
 http://bit.ly/HA70-SummerInternship-Task-2
 
 ### *Task 4*
-
+![Task 4 Thumbnail](https://user-images.githubusercontent.com/59224488/121190817-0a12a180-c889-11eb-8bbe-85ca699c9799.jpeg)
 http://bit.ly/HA70-SummerInternship-Task-4
