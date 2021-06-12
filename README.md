@@ -10,6 +10,9 @@ http://bit.ly/HA70-SummerInternship-Task-1
 ![Task 02 Thumbnail](https://user-images.githubusercontent.com/59224488/120354147-d7fcbf00-c31f-11eb-99be-08c0112f7f04.jpeg)
 http://bit.ly/HA70-SummerInternship-Task-2
 
+### *Task 3*
+![Task 03 Thumbnail](https://user-images.githubusercontent.com/59224488/121781508-b8d51b80-cbc2-11eb-882b-60307f3b306b.jpeg)
+
 ### *Task 4*
 ![Task 4 Thumbnail](https://user-images.githubusercontent.com/59224488/121190817-0a12a180-c889-11eb-8bbe-85ca699c9799.jpeg)
 http://bit.ly/HA70-SummerInternship-Task-4
