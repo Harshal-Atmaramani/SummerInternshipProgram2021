@@ -19,4 +19,4 @@ http://bit.ly/HA70-SummerInternship-Task-3
 http://bit.ly/HA70-SummerInternship-Task-4
 
 ### *Task 6*
-https://bit.ly/HA70-SummerInternship-Task-6
+https://bit.ly/HA70-SummerInternship-Task_6
