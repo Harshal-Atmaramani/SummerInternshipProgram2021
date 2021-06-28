@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Docker Service</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+
+    <script src="https://kit.fontawesome.com/1edca5e833.js" crossorigin="anonymous"></script>
+    <link rel="shortcut icon" type="image/x-icon" href="images/favicon/dockerhero.jpg">
+</head>
+<main>
+        <section id="landing-page" class="landing-page">
+<!--		<div class="container">-->
+                <div class="main-message">
+			<h2>Docker Service</h2>
+		    <h3>[root@localhost ~]#</h3><input style="font-size: 24px; height: 50px; width: 500px; border-radius: 8px; padding-left: 10px;" id="inp">
+                    <pre>
+			<div style="font-size: 25px; text-align: center; color: rgba(0, 0, 0, 0.733); font-weight: 500; border-radius: 8px;" id="d1">Output will be displayed below:</div>
+			<div  style="font-size: 18px; display: flex; justify-content: center; text-align: left; font-weight: 500; color: rgba(0, 0, 0, 0.87);" id="d2"></div>
+			</pre>
+			<button onclick="userDrivenProgram();">Click me</button>
+
+                </div>
+		<!--       </div>-->
+
+        </section>
+</main>
+<footer>
+        <div class="footer-nav">
+            <a href="#landing-page" class="footer-nav-link">This service has all the functionalities of Docker</a>
+        </div>
+        <div class="footer-coded-by">
+            <p>
+                <i class="fas fa-code"></i> with 💙 by Harshal Atmaramani &copy; 2021
+            </p>
+            <p>Built with HTML, CSS and JavaScript</p>
+        </div>
+        <div class="footer-social">
+            <a href="https://www.linkedin.com/in/harshal-atmaramani/" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a href="https://github.com/Harshal-Atmaramani" target="_blank"><i class="fab fa-github"></i></a>
+            <a href="https://twitter.com/hsatmaramani" target="_blank"><i class="fab fa-twitter"></i></a>
+        </div>
+    </footer>
+
+<script>
+    function userDrivenProgram() {
+        var i = document.getElementById("inp").value
+
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', 'http://192.168.0.101/cgi-bin/serv.py?x=' + i, true);
+
+        xhr.send();
+
+        xhr.onload = function() {
+            var output = xhr.responseText;
+            document.getElementById("d2").innerHTML = output
+        }
+    }
+</script>
