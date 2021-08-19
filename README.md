@@ -27,3 +27,4 @@ https://bit.ly/HA70-SummerInternship-Task-7-1
 
 ### *Task 8*
 ![Task 8 thumbnail](https://user-images.githubusercontent.com/59224488/130017185-fce3d2a8-50d6-4464-8e44-0b84d5641a00.png)
+https://bit.ly/HA70-SummerInternship-Task_8
