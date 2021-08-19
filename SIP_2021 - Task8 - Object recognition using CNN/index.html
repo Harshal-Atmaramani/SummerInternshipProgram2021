@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html>
+<input id="inp" text ="text">
+<button onclick='userDrivenProgram();'>Click me</button>
+<div id="d1"></div>
+
+</html>
+
+<script>
+    function userDrivenProgram() {
+        var i = document.getElementById("inp").value;
+
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', 'http://IP_Address/cgi-bin/serv.py?x=' + i, true);
+
+        xhr.send();
+
+        xhr.onload = function() {
+            var output = xhr.responseText;
+            document.getElementById("d1").innerHTML = output
+        }
+    }
+</script>
