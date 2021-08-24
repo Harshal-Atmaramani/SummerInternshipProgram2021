@@ -8,7 +8,7 @@
 
 Example - when we write 'run deployment using httpd image' then it run complete deployment command in backend. 
 
-Feature necessary -
+#### Necessary features -
 
 👉 It can launch pods with specific name given by user. 
 
