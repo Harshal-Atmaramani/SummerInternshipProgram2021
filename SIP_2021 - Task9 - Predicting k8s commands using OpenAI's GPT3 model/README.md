@@ -1,6 +1,6 @@
 ### This task is one of many tasks that were given to summer interns at Linuxworld Informatics Pvt Ltd by our belowed Mr. Vimal Daga Sir.
 
-#### The Task 9 Description 📄 is as follows:
+#### The Task 9 description 📄 is as follows:
 
 📌 In continuation of task 7.1 you need to Integrate Kubernetes commands that can be run through webUI created by you. 
 
