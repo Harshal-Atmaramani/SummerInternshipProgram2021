@@ -2,29 +2,29 @@
 
 #### The Task 9 description 📄 is as follows:
 
-📌 In continuation of task 7.1 you need to Integrate Kubernetes commands that can be run through webUI created by you. 
+📌 In continuation of task 7.1 you need to Integrate Kubernetes commands that can be run through WebUI created by you. 
 
-👉 This time create webUI page as such that using normal English conversation your all commands can run in background. 
+👉 This time create a WebUI page as such that using normal English conversation your all commands can run in the background. 
 
-Example - when we write 'run deployment using httpd image' then it run complete deployment command in backend. 
+For Example - when we write 'run deployment using the httpd image' then it runs the complete deployment command in the backend. 
 
-#### Necessary features -
+Necessary Features -
 
-👉 It can launch pods with specific name given by user. 
+👉 It can launch pods with the specific name given by the user. 
 
-👉 Run deployment using image and name given by user. 
+👉 Run deployment using the image and name given by the user. 
 
 👉 Expose services on given user input port number. 
 
-👉 Scale the replica according to user need. 
+👉 Scale the replica according to user needs. 
 
-👉 Delete complete environment created. 
+👉 Delete the complete environment created. 
 
-👉 Delete specific resources given by user. 
+👉 Delete specific resources given by the user. 
 
-👉 Extra features related to k8s ( Optional) 
+👉 Extra features related to k8s (Optional) 
 
-Note - There should be webUI based menu display so that user can get to know what your webapp can do. 
+Note - There should be WebUI based menu display so that users can get to know what your web app can do. 
 
 📌 This app will help the user to run all the Kubernetes commands.
 
