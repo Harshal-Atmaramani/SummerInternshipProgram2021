@@ -24,7 +24,8 @@ For Example - when we write 'run deployment using the httpd image' then it runs 
 
 👉 Extra features related to k8s (Optional) 
 
-Note - There should be WebUI based menu display so that users can get to know what your web app can do. 
+#### Note - 
+There should be WebUI based menu display so that users can get to know what your web app can do. 
 
 📌 This app will help the user to run all the Kubernetes commands.
 
