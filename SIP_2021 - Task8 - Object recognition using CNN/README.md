@@ -1,5 +1,6 @@
-This task is one of many tasks that were given to summer interns at Linuxworld Informatics Pvt Ltd by our belowed Mr. Vimal Daga Sir.
-The Task Description 📄 is as follows:
+### This task is one of many tasks that were given to summer interns at Linuxworld Informatics Pvt Ltd by our belowed Mr. Vimal Daga Sir.
+
+#### The Task Description 📄 is as follows:
 
 Object Recognition using CNN model
 
